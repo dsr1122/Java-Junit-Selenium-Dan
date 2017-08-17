@@ -44,7 +44,7 @@ public class TestBase implements SauceOnDemandSessionIdProvider {
      */
     public SauceOnDemandAuthentication authentication = new SauceOnDemandAuthentication(username, accesskey);
 
-//demo
+//demo change
     /**
      * JUnit Rule which will mark the Sauce Job as passed/failed when the test succeeds or fails.
      */
