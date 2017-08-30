@@ -27,7 +27,7 @@ import com.saucelabs.common.SauceOnDemandSessionIdProvider;
  * the test as passed or failed.
  *
  * @author Neil Manvar
- * change
+ * chang
  */
 @Ignore
 @RunWith(ConcurrentParameterized.class)
